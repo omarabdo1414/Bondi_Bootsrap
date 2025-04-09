@@ -26,20 +26,12 @@ This project contains various HTML and CSS templates designed using Bootstrap, p
 2. Open any template in your preferred web browser
 3. Customize the templates according to your needs
 
-## Project Structure
-
-The project is organized with different templates in separate directories.
-
 ## Browser Support
 
 - Chrome (latest)
 - Firefox (latest)
 - Safari (latest)
 - Edge (latest)
-
-## License
-
-This project is open source and available under the MIT License.
 
 ## Last Updated
 
